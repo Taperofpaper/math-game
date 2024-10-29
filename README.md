@@ -1,6 +1,6 @@
 # How Math-Quick Are YOU?
 
-✖️ ➕ ➖ ➗
+<p align="center"><img width="80%" src="math-game.png"/></p>
 
 Are you a speedy problem-solver? Show it off in this fast-based equation solving game!
 
